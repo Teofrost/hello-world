@@ -8,3 +8,4 @@ just some fucking text
 
 NEW COMMIT IN THE ВТОРОЙ BRANCH
 МЕНЯЕМ ШТУКУ В МАСТЕРЕ
+Делаем старые изменения, которых нет в мастере
