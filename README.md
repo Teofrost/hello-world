@@ -1,3 +1,6 @@
 # hello-world
-Just another repository
-Here is my first commit for master.
+Новый коммит!!!! А что в парентах??
+
+Еще один едит
+И еще эдит
+Иещееее!!
