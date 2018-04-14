@@ -1,6 +1,7 @@
 # hello-world
-Новый коммит!!!! А что в парентах??
-
-Еще один едит
-И еще эдит
-Иещееее!!
+Let's see if changes to Master from the other Branch will apply here
+We will check this shitout
+more and
+some 
+more
+just some fucking text
