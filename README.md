@@ -5,3 +5,5 @@ more and
 some 
 more
 just some fucking text
+
+NEW COMMIT IN THE SECOND BRANCH
